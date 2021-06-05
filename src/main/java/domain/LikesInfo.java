@@ -4,5 +4,5 @@ public class LikesInfo {
     private int likesCount;
     private boolean canLike;
     private boolean isLike;
-    private domain.UserInfo userInfo;
+    private UserInfo userInfo;
 }
