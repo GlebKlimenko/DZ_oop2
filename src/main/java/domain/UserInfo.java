@@ -1,6 +1,5 @@
 package domain;
 
-
 public class UserInfo {
     private String userId;
     private String userName;

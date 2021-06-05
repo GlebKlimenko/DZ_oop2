@@ -1,6 +1,5 @@
 package domain;
 
-
 public class Post {
     private String postId;
     private String groupId;
