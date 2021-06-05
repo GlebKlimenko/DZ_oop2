@@ -1,5 +1,6 @@
 package domain;
 
+
 public class Content {
     private String text;
     private String imageUrl;

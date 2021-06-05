@@ -1,5 +1,6 @@
 package domain;
 
+
 public class Copyright {
     private String id;
     private String link;
